@@ -1,0 +1,3 @@
+2022-01-20 15:55:17.341] transaction_id=[] ERROR [http-nio-8080-exec-1] com.poc.logging.exceptions.GlobalExceptionHandler:: => Something went wrong,Required request parameter 'errorMessage' for method parameter type String is not present
+2022-01-20 15:55:57.196] transaction_id=[] ERROR [http-nio-8080-exec-3] com.poc.logging.exceptions.GlobalExceptionHandler:: => Something went wrong,Required request parameter 'errorMessage' for method parameter type String is not present
+2022-01-20 15:55:58.849] transaction_id=[] ERROR [http-nio-8080-exec-5] com.poc.logging.exceptions.GlobalExceptionHandler:: => Something went wrong,Required request parameter 'errorMessage' for method parameter type String is not present

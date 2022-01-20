@@ -1,0 +1,8 @@
+2022-01-20 15:55:06.529] transaction_id=[] INFO [main] com.poc.logging.LoggingApplication:: => Starting LoggingApplication using Java 13.0.2 on Rishabhs-MacBook-Air.local with PID 11914 (/Users/rishabhhanday/git-repositories/logging/build/classes/java/main started by rishabhhanday in /Users/rishabhhanday/git-repositories/logging)
+2022-01-20 15:55:06.545] transaction_id=[] INFO [main] com.poc.logging.LoggingApplication:: => No active profile set, falling back to default profiles: default
+2022-01-20 15:55:07.937] transaction_id=[] INFO [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer:: => Tomcat initialized with port(s): 8080 (http)
+2022-01-20 15:55:08.068] transaction_id=[] INFO [main] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext:: => Root WebApplicationContext: initialization completed in 1470 ms
+2022-01-20 15:55:08.569] transaction_id=[] INFO [main] org.springframework.boot.web.embedded.tomcat.TomcatWebServer:: => Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-20 15:55:08.584] transaction_id=[] INFO [main] com.poc.logging.LoggingApplication:: => Started LoggingApplication in 2.705 seconds (JVM running for 3.828)
+2022-01-20 15:55:17.299] transaction_id=[] INFO [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet:: => Initializing Servlet 'dispatcherServlet'
+2022-01-20 15:55:17.306] transaction_id=[] INFO [http-nio-8080-exec-1] org.springframework.web.servlet.DispatcherServlet:: => Completed initialization in 7 ms
